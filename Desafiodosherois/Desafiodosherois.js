@@ -1,5 +1,3 @@
-console.log("olá mundo");
-
 const nomeHeroi = "Zumbi";
 const xpHeroi = 10001;
 var nivel = "";
@@ -30,4 +28,4 @@ else if (xpHeroi > 9000 & xpHeroi < 10000) {
 else if (xpHeroi >= 10001) {
     nivel = "Radiante";
 }
-console.log("O Herói de nome " + nomeHeroi + " está no nível de " + nivel);
+"O Herói de nome " + nomeHeroi + " está no nível de " + nivel
